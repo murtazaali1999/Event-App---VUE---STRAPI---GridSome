@@ -1,0 +1,16 @@
+{
+  "name": "event-app-front",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "vuetify": "^2.6.12"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^3.0.0"
+  }
+}
